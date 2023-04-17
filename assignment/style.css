@@ -1,3 +1,17 @@
 body {
-    background-color: red;
+    margin: 0px;
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
+
+.coolheader {
+    background-color: darkgreen;
+    color: lightcyan;
+
+    text-align: center;
+}
+
+.coolmain {
+    background-color: lightgray;
+    padding: 1em;
 }
